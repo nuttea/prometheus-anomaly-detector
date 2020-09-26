@@ -21,7 +21,7 @@ parameters:
     name: APPLICATION_NAME
     required: true
   - name: GIT_URI
-    value: "https://github.com/AICoE/prometheus-anomaly-detector.git"
+    value: "https://github.com/nuttea/prometheus-anomaly-detector.git"
     required: true
   - name: FLT_DEBUG_MODE
     description: "Enable verbose log for debugging"
